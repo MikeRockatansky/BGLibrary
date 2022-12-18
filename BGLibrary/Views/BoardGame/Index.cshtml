@@ -1,0 +1,15 @@
+﻿@using System.Text.RegularExpressions
+@model BoardGamePage
+
+<div>
+    <h1>@Model.Name</h1>
+    <span>
+        @{
+            Model.Description = new Regex(@"\&[^\s\;]+;").Replace(Model.Description, "");
+            @Model.Description
+        }
+    </span><br/>
+    <span style="font-weight:bold"> Game Artist: </span> <span> @Model.BoardGameArtist<br/></span>
+    <span style="font-weight:bold"> Game Designer: </span> <span> @Model.BoardGameDesigner<br/></span>
+    <span style="font-weight:bold"> Published: </span> <span> @Model.YearPublished<br/></span>
+</div>

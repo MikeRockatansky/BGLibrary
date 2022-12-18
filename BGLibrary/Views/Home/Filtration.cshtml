@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model RequestBuilderViewModel
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>A-Z / Z-A</th>
+            <th>Column Name</th>
+            <th>Filter</th>
+        </tr>
+    </thead>
+    <form asp-action="Index" asp-controller="Home" method="post">
+        <tbody>
+            @for (int i = 0; i < Model.SelectColumns.Count; ++i)
+            {
+                if (@Model.SelectColumns[i].Column == "Id") 
+                {
+                    <input type="hidden" name="Orderby[@i].Column" value="@Model.SelectColumns[i].Column">
+                    <input type="hidden" value="@Model.SelectColumns[i].Column" name="SelectColumns[@i].Column">
+                    <input type="hidden" value="@Model.SelectColumns[i].ColumnType" name="SelectColumns[@i].ColumnType">
+                    <input type="hidden" name="Where[@i].Column" value="@Model.SelectColumns[i].Column">
+                    <input type="hidden" name="Where[@i].Type" value="@Model.SelectColumns[i].ColumnType">
+                    continue; 
+                }
+                <tr>
+                    <td>
+                        <input type="hidden" name="Orderby[@i].Column" value="@Model.SelectColumns[i].Column">
+
+                        <input id="@Model.SelectColumns[i].Column ASC" name="Orderby[@i].Operator" type="radio" value="ASC" />
+                            <label for="@Model.SelectColumns[i].Column ASC">ascending</label><br />
+
+                        <input id="@Model.SelectColumns[i].Column DESC" name="Orderby[@i].Operator" type="radio" value="DESC" />
+                            <label for="@Model.SelectColumns[i].Column DESC">discending</label><br />
+                    </td>
+
+                    <td>
+                        @Model.SelectColumns[i].Column
+                        <input type="hidden" value="@Model.SelectColumns[i].Column" name="SelectColumns[@i].Column">
+                        <input type="hidden" value="@Model.SelectColumns[i].ColumnType" name="SelectColumns[@i].ColumnType">
+                    </td>
+
+                    <td>
+                        <select id="@i" name="Where[@i].Operator" class="form-select" aria-label="Default select example">
+                            <option selected> Null </option>
+                            <option value="="> = </option>
+                            <option value=">"> > </option>
+                            <option value="<"> &lt; </option>
+                            <option value=">="> >= </option>
+                            <option value="<="> &lt;= </option>
+                            <option value="<>"> &lt;> </option>
+                            <option value="LIKE"> LIKE </option>
+                        </select>
+                        <div class="form-group">
+                            <input type="text" name="Where[@i].Value" class="form-control" placeholder="Value">
+                        </div>
+                        <input type="hidden" name="Where[@i].Column" value="@Model.SelectColumns[i].Column">
+                        <input type="hidden" name="Where[@i].Type" value="@Model.SelectColumns[i].ColumnType">
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <input type="submit" value="Submit" class="btn btn-secondary"/>
+    </form>
+</table>
+
+@section scripts
+{
+<script>
+    $(function () {
+        $('select').on('change', function (e) {
+            var optionSelected = $("option:selected", this);
+            var name = this.id;
+            var valueSelected = this.value;
+            console.log(name);
+            console.log(valueSelected);
+        });
+    });
+</script>
+}

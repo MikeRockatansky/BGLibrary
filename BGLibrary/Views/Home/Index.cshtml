@@ -1,0 +1,38 @@
+﻿@model Dictionary<string, dynamic>
+
+
+<form asp-action="Filtration" asp-controller="Home" method="get">
+    @for (int i = 0; i < Model["Fields"].Count; ++i)
+    {
+        <input type="hidden" name="SelectColumns[@i].Column" value="@Model["Fields"][i].Column">
+        <input type="hidden" name="SelectColumns[@i].ColumnType" value="@Model["Fields"][i].ColumnType">
+    }
+    <input type="submit" value="Filtration" class="btn btn-secondary"/>
+</form>
+<a href="~/Plot/GetPlot" class="link-primary">Plots</a>
+
+<table  class="table">
+    <thead>
+        <tr>
+            @foreach (var i in Model["Fields"])
+            {
+                <th scope="col">@i.Column</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (BoardGame i in Model["Games"])
+        {
+            <tr>
+                @foreach (var field in Model["Fields"])
+                {
+                    var parameter = i.GetType().GetProperty(field.Column).GetValue(i);
+                    string color = "background-color: white";
+                    if (Int32.TryParse(parameter.ToString(), out int value) && value == 0) color = "background-color: lightcoral";
+                    <td style="@color">@parameter</td>
+                }
+                    <td><a asp-action="Index" asp-controller="BoardGame" asp-route-id="@i.GetType().GetProperty("Id").GetValue(i)" class="link-primary">Show</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

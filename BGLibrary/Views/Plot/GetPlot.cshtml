@@ -1,0 +1,91 @@
+﻿<META HTTP-EQUIV="content-type" CONTENT="NO-CACHE">
+@model List<SelectViewModel>
+<style>
+    input, img, select{
+        margin: 10px;
+    }
+    img{
+        max-width: 60%;
+        max-height: 60%;
+    }
+</style>
+
+
+<img src="@Url.Content("~/plot.png")"/>
+<div>@TempData["PlotAVG"]</div>
+<select id="formHandler" name="Type" class="form-select" aria-label="Default select example">
+    <option selected>Choose Graph Type </option>
+    <option value="TimeBased"> Counting by the Value Line chart </option>
+    <option value="Count"> Counting bar chart </option>
+    <option value="AVG"> AVG line chart </option>
+</select>
+
+<form id="Count" asp-action="GetPlotCount" asp-controller="Plot" method="post" style="display: none;">
+    <h1>Count</h1>
+    <label>X Axis: <select name="Xlabel" class="form-select" aria-label="Default select example" required>
+        @foreach(var i in Model)
+        {
+            <option value="@i.Column"> @i.Column </option>
+        }
+    </select></label>
+    <input name="LeftLim" class="form-control" placeholder="Left X Limit" />
+    <input name="RightLim" class="form-control" placeholder="Right X Limit"/>
+    <input type="submit" value="submit" class="btn btn-secondary" required/>
+</form>
+
+<form id="AVG" asp-action="GetPlotAVG" asp-controller="Plot" method="post" style="display: none;">
+    <h1>AVG</h1>
+    <label>Y Axis: <select name="Ylabel" class="form-select" aria-label="Default select example" required>
+        @foreach (var i in Model)
+        {
+            if (i.Column == "YearPublished") { continue; }
+            <option value="@i.Column"> @i.Column </option>
+        }
+    </select></label>
+    <input name="LeftLim" class="form-control" placeholder="Left X(YearPublished) Limit"/>
+    <input name="RightLim" class="form-control" placeholder="Right X(YearPublished) Limit"/>
+    <input type="submit" value="submit" class="btn btn-secondary"/>
+</form>
+
+<form id="TimeBased" asp-action="GetPlotTimeBased" asp-controller="Plot" method="post" style="display: none;">
+    <h1>TimeBased</h1>
+    <label>Y Axis: <select name="Ylabel" class="form-select" aria-label="Default select example" required>
+        @foreach (var i in Model)
+        {
+            if (i.Column == "YearPublished") { continue; }
+            <option value="@i.Column"> @i.Column </option>
+        }
+    </select></label>
+    <input name="Value" class="form-control" placeholder="Value" required/>
+    <input name="LeftLim" class="form-control" placeholder="Left X(YearPublished) Limit" />
+    <input name="RightLim" class="form-control" placeholder="Right X(YearPublished) Limit" />
+    <input type="submit" value="submit" class="btn btn-secondary"/>
+</form>
+
+
+@section scripts
+{
+<script>
+    $(function () {
+        $('#formHandler').on('change', function (e) {
+            var optionSelected = $("option:selected", this);
+            var valueSelected = this.value;
+            $('#Count').hide();
+            $('#TimeBased').hide();
+            $('#AVG').hide();
+            if(valueSelected === "Count")
+            {
+                $('#Count').show();
+            }
+            if(valueSelected === "TimeBased")
+            {
+                $('#TimeBased').show();
+            }
+            if(valueSelected === "AVG")
+            {
+                $('#AVG').show();
+            }
+        });
+    });
+</script>
+}
