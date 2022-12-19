@@ -13,9 +13,9 @@ namespace BGLibrary.Services
     {
         public List<BoardGame> GetBoardGames();
         public List<BoardGame> Serialization(SQLiteDataReader reader, List<SelectViewModel> columns);
-        public IGetService Select(List<SelectViewModel> columns, string tableName = "BoardGames");
-        public IGetService OrderBy(List<OrderByViewModel> columnOrder);
-        public IGetService Where(List<WhereViewModel> where);
+        public GetService Select(List<SelectViewModel> columns, string tableName = "BoardGames");
+        public GetService OrderBy(List<OrderByViewModel> columnOrder);
+        public GetService Where(List<WhereViewModel> where);
         public List<BoardGame> Get();
         public BoardGamePage GetBoardGame(string id);
     }

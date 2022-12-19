@@ -1,0 +1,9002 @@
+[
+  {
+    "Id": "1692",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Spoons",
+    "YearPublished": 1972
+  },
+  {
+    "Id": "7408",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "The Book of Cards for Kids",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "7919",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Zen Blocks",
+    "YearPublished": 1972
+  },
+  {
+    "Id": "8784",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Po-Ke-No",
+    "YearPublished": 1930
+  },
+  {
+    "Id": "21570",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "I Scream",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "24482",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Healthy Habits",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "25109",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 0,
+    "MinPlayers": 9,
+    "MinPlayTime": 0,
+    "Name": "Realms of the Unknown",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "28736",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Office Gossip",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "30964",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "HysteriCoach Hockey",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "33827",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Hvorn\u00E5r var det nu det var ?",
+    "YearPublished": 1967
+  },
+  {
+    "Id": "38001",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 222,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: Das Spiel",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "43105",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 10,
+    "MinPlayers": 5,
+    "MinPlayTime": 10,
+    "Name": "Standoff",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "46814",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "1, 2, 3... Soleil!",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "101420",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Ninety-Nine",
+    "YearPublished": 0
+  },
+  {
+    "Id": "116468",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "La Scatola degli Enigmi",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "118943",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "La B\u00EAte du G\u00E9vaudan",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "125832",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 68,
+    "MinPlayers": 3,
+    "MinPlayTime": 68,
+    "Name": "Pittsburgh 68",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "131291",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Treasure Trail",
+    "YearPublished": 1964
+  },
+  {
+    "Id": "135597",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Medieval Puzzles \u0026 Enigmas",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "139030",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Mascarade",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "146565",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Mascarade: The Damned",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "163107",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Mascarade Expansion",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "167317",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Esbirros Bizarros",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "169123",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Pigeon vole ou pas?",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "179858",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "En la escena del crimen",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "181757",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "En la escena del Crimen: Especial CSI",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "181758",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "En la escena del crimen: Cr\u00EDmenes imposibles",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "184995",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Wings of Glory: World War 1 \u2013 Halberstadt CL.II",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "196993",
+    "MaxPlayers": 13,
+    "MaxPlayTime": 120,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Trot Wars",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "6478",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Dictionary Dabble",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "6485",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Quidditch: The Game",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "7029",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Field of Honor",
+    "YearPublished": 1982
+  },
+  {
+    "Id": "9548",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Party Lines",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "14614",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Home Game Fantasy Football",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "14864",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Affari tuoi",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "23132",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 240,
+    "MinPlayers": 10,
+    "MinPlayTime": 240,
+    "Name": "Way Out West",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23149",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 240,
+    "MinPlayers": 7,
+    "MinPlayTime": 240,
+    "Name": "The Final Curtain",
+    "YearPublished": 0
+  },
+  {
+    "Id": "26069",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "A-divino",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "26446",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "LovePigs (Porcellini)",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "28047",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Covert Action",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "28677",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Quick \u0026 Dirty",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "30647",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Game Night at Nate\u0027s",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "31576",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Sailboat Regatta",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "31942",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "The Game of Seven-Up",
+    "YearPublished": 1938
+  },
+  {
+    "Id": "38410",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Cube",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "38755",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "College Basketball Dynasty",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39031",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Gioco del ponte",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "39053",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Design Patterns Playing Cards",
+    "YearPublished": 0
+  },
+  {
+    "Id": "43303",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Formula D: Circuits 2 \u2013 Hockenheim and Valencia",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "48655",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Connectomy",
+    "YearPublished": 0
+  },
+  {
+    "Id": "76204",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Flintloque (The free editions)",
+    "YearPublished": 0
+  },
+  {
+    "Id": "76429",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "The Othari of Aegypt",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "76478",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Trafalgore",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "85073",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Alef-Bet Bingo",
+    "YearPublished": 0
+  },
+  {
+    "Id": "89284",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Das M\u00FCllspiel",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "93199",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Krimi Edition",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "108355",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Market Mayhem",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "111719",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Sag Die Antwort",
+    "YearPublished": 1954
+  },
+  {
+    "Id": "126980",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Shuggy Hall Brawl",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "131219",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Hidden Fires",
+    "YearPublished": 1930
+  },
+  {
+    "Id": "136029",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Le Tricheur",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "145185",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "If Only I Had...",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "155314",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 50,
+    "MinPlayers": 3,
+    "MinPlayTime": 50,
+    "Name": "Strike A Pose",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "157896",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 120,
+    "Name": "Drinking Viking",
+    "YearPublished": 0
+  },
+  {
+    "Id": "158059",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "God Hates Charades",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "161206",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Pequenas Igrejas, Grandes Neg\u00F3cios",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "167759",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Captoons: The Game of Comic Foreplay and Social Intercourse",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "168167",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Fatal Choices",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "170266",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Dementalism: Holy Crap",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "175556",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Dementalism: Flop, Slop, and Sop",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "178051",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 5,
+    "Name": "SCAPE",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "192283",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Emojito!",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "206381",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Treasure Hunt",
+    "YearPublished": 0
+  },
+  {
+    "Id": "211807",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 180,
+    "MinPlayers": 8,
+    "MinPlayTime": 120,
+    "Name": "Host Party: Trailer Trash Tragedy",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "212108",
+    "MaxPlayers": 14,
+    "MaxPlayTime": 180,
+    "MinPlayers": 8,
+    "MinPlayTime": 120,
+    "Name": "Host Party: Back to the Eighties",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "51",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Ricochet Robots",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "563",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Doolittle \u0026 Waite",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "1962",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Tribond",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "2503",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 300,
+    "MinPlayers": 2,
+    "MinPlayTime": 300,
+    "Name": "Godsfire",
+    "YearPublished": 1976
+  },
+  {
+    "Id": "5430",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Best of TriBond",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "6471",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Panguingue",
+    "YearPublished": 1860
+  },
+  {
+    "Id": "7871",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Not An Island",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "10680",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Jungle Speed: The Extreme Expansion",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "10766",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "OH",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "10934",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Things...",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "12091",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Alles oder Nichts",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "13090",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 5,
+    "MinPlayTime": 45,
+    "Name": "Murder! The Game",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "14644",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Don\u0027t be a Butt-in-ski",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "14696",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "The Horse Race Game",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "16233",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Brain Chain",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "18803",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "19498",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Kille",
+    "YearPublished": 1741
+  },
+  {
+    "Id": "20029",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 180,
+    "MinPlayers": 8,
+    "MinPlayTime": 180,
+    "Name": "Krimi Total Fall 3: Die zweifelhafte Welt der M\u00E4rchen",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "20442",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 7,
+    "MinPlayTime": 0,
+    "Name": "Cluesome",
+    "YearPublished": 0
+  },
+  {
+    "Id": "20628",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "I Am NOT a Communist",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "20750",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories 2",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "21798",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "HysteriCoach",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "22058",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Bible Lotto",
+    "YearPublished": 1933
+  },
+  {
+    "Id": "22443",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 600,
+    "MinPlayers": 2,
+    "MinPlayTime": 600,
+    "Name": "Pantheons",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "23116",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 180,
+    "MinPlayers": 10,
+    "MinPlayTime": 180,
+    "Name": "The Santa Clause",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23137",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 240,
+    "MinPlayers": 12,
+    "MinPlayTime": 240,
+    "Name": "Dazzled to Death",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "23146",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 240,
+    "MinPlayers": 11,
+    "MinPlayTime": 240,
+    "Name": "Happy Birthday R.J.",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "23159",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 240,
+    "MinPlayers": 12,
+    "MinPlayTime": 240,
+    "Name": "The Night before Christmas",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23646",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Uncommon Sense",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "25962",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Criterium",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "26054",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories 3",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "28992",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 240,
+    "MinPlayers": 10,
+    "MinPlayTime": 240,
+    "Name": "Under the Big Top",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "31231",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Psalms",
+    "YearPublished": 1976
+  },
+  {
+    "Id": "31292",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Wir Rheinl\u00E4nder",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "32743",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Mystery Edition",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "34327",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 240,
+    "MinPlayers": 3,
+    "MinPlayTime": 240,
+    "Name": "The Mummy\u0027s Message",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "36800",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Bible Quotto",
+    "YearPublished": 0
+  },
+  {
+    "Id": "37300",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Taba",
+    "YearPublished": 0
+  },
+  {
+    "Id": "39103",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Jungle Speed: Deluxe",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "40219",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Babel",
+    "YearPublished": 1963
+  },
+  {
+    "Id": "40634",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Price of Freedom",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "40675",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Your Own Private Idaho",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "40685",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Price of Freedom Gamemaster Pack",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "41311",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories 4",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "43040",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories K\u00F6ln Edition",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "43041",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Movie Edition",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "43042",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Blue Stories",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "43043",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Green Stories",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "43044",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Pink Stories",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "43171",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "White Stories",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "57052",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Real Crime Edition",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "59426",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Coblin Chaos",
+    "YearPublished": 0
+  },
+  {
+    "Id": "60464",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories 5",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "62345",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "El juego de la salud",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "66105",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "The Adventures of Dick and Virginia",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "69582",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Buzz It!",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "70938",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Along Bible Roads",
+    "YearPublished": 1960
+  },
+  {
+    "Id": "74245",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 1,
+    "MinPlayTime": 45,
+    "Name": "Tommy\u0027s Speedway 300",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "77361",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 6,
+    "MinPlayTime": 20,
+    "Name": "Photo Party",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "80012",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "We Didn\u0027t Playtest This At All: Blue Deck",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "82080",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Task",
+    "YearPublished": 1973
+  },
+  {
+    "Id": "84116",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Megaszt\u00E1r Karaoke",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "85214",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 7,
+    "MinPlayTime": 60,
+    "Name": "Community",
+    "YearPublished": 1972
+  },
+  {
+    "Id": "86538",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories 6",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "94365",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 5,
+    "MinPlayTime": 60,
+    "Name": "Sultans of Karaya",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "96342",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories: Holiday Edition",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "96345",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Funny Death Edition",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "98377",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Sacrifice of the Pharaohs",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "100738",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 0,
+    "MinPlayTime": 0,
+    "Name": "Puzzles in Pictures",
+    "YearPublished": 0
+  },
+  {
+    "Id": "100945",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Dance Charades",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "101946",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Wer weiss mehr und traut sich auch?",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "108986",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Find the Mistakes",
+    "YearPublished": 1960
+  },
+  {
+    "Id": "108993",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Split Wits",
+    "YearPublished": 1955
+  },
+  {
+    "Id": "110004",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 5,
+    "MinPlayTime": 90,
+    "Name": "Alles, alles \u00FCber Deutschland",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "110570",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories 7",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "111327",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories: Christmas Edition",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "119100",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Plury One",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "119988",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "How Provoking!",
+    "YearPublished": 1935
+  },
+  {
+    "Id": "120976",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Party Medley",
+    "YearPublished": 1955
+  },
+  {
+    "Id": "121329",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Scramble for Africa",
+    "YearPublished": 1973
+  },
+  {
+    "Id": "121485",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Strange Salads",
+    "YearPublished": 1935
+  },
+  {
+    "Id": "123129",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 2,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "We Didn\u0027t Playtest This: Legacies",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "126631",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 6,
+    "MinPlayTime": 45,
+    "Name": "Enter the Passage",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "127646",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: Mittelalter Edition",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "127648",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: Sex and Crime Edition",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "127653",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Junior: Das Spiel",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "129465",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories 8",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "131812",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "[_BL\u00C4NK]",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "134815",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "The Hobbit: An Unexpected Journey \u2013 Adventure Board Game",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "137084",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Six-Gun, The Cowboy Action Game",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "138436",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Gusto \u00D6l",
+    "YearPublished": 0
+  },
+  {
+    "Id": "138437",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Gusto Vin",
+    "YearPublished": 0
+  },
+  {
+    "Id": "139047",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Musi-Matics and Musi-Winks",
+    "YearPublished": 1955
+  },
+  {
+    "Id": "142322",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Golden Stories",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "144081",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Quarq",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "147681",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: Shit Happens Edition",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "150527",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Jinro Gaiden",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "150755",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "TriBond Clue-set Cards #2",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "151775",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories 9",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "151776",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories Christmas Edition 2",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "152621",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Black Stories: Medizin Edition",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "152622",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: Office Edition",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "154727",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 2,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "Black Stories 1\u002B2",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "155698",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Hvem i all verden?",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "155986",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Cambio y Bolsa, Mercado, y Miau",
+    "YearPublished": 1950
+  },
+  {
+    "Id": "156564",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 5,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Woo-Wee!",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "158564",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Billionaire Banshee",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "159814",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Konito? Musik",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "163562",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "The Good, The Bad \u0026 The Funny",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "166437",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Grandpa\u0027s Chest",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "167818",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Black Stories: \u00C4rztlicher Rat",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "168039",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Bill Shakespeare Is Dead",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "168659",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Purple Stories",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "169815",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Imperium Chronicles: In Harm\u0027s Way Tactics",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "170856",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Eat the Villagers",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "174159",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 60,
+    "Name": "Owata-shi no haraguro shicho",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "174245",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "All About Yourself",
+    "YearPublished": 0
+  },
+  {
+    "Id": "174246",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Word Riddles",
+    "YearPublished": 0
+  },
+  {
+    "Id": "177003",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 180,
+    "MinPlayers": 5,
+    "MinPlayTime": 60,
+    "Name": "Planet Hysteria",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "178322",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 7,
+    "MinPlayTime": 30,
+    "Name": "Night falls in Palermo",
+    "YearPublished": 0
+  },
+  {
+    "Id": "181233",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Rationality Cardinality",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182090",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "The Game of Nasty Things...",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "184298",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "WarChess-X: The Armageddon",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "184443",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 1,
+    "MinPlayers": 3,
+    "MinPlayTime": 1,
+    "Name": "BEARanoia",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "184905",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "God Hates Charades: 8-bit Expansion",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "188347",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 120,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Karty D\u017Centelmen\u00F3w",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "191052",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 120,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Kommentakerfi\u00F0",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "199374",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "I See What You Did There",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "199528",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 5,
+    "Name": "The CopyCat",
+    "YearPublished": 0
+  },
+  {
+    "Id": "204241",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 90,
+    "MinPlayers": 7,
+    "MinPlayTime": 25,
+    "Name": "Red X: Facility 342",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "221190",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 120,
+    "MinPlayers": 5,
+    "MinPlayTime": 50,
+    "Name": "Make America Debate Again",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "204613",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Invasion Evasion",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "216360",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Karty D\u017Centelmen\u00F3w Epizod Drugi",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "217007",
+    "MaxPlayers": 15,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "La Criatura",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "22",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 1,
+    "MinPlayTime": 240,
+    "Name": "Magic Realm",
+    "YearPublished": 1979
+  },
+  {
+    "Id": "732",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Don\u0027t Make Me Laugh",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "744",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Wicked Words",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "891",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Cranium",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "1579",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Wrasslin\u0027",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "1923",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "MindTrap",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "2281",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "2582",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Catch Phrase!",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "4817",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Treasure Hunt",
+    "YearPublished": 1940
+  },
+  {
+    "Id": "4881",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Personal Preference",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "4882",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Proverbial Wisdom",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "4894",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Three For All!",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "6050",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 1: Worldspanner",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6139",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 2: Intensity",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6140",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 6: Field of Honor",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6141",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 3: Vast Horizons",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6142",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 4: Royal Tournament",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6143",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 5: Mercenary Camp",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6144",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages Set 7: Ruins of Cany XII",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6282",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Azhanti High Lightning",
+    "YearPublished": 1980
+  },
+  {
+    "Id": "6420",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Cranium Cadoo",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "6744",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Feudal Lord",
+    "YearPublished": 1983
+  },
+  {
+    "Id": "7043",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Concrete Jungle",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "7339",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Special Delivery",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "7895",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Galaxy",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "8448",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Bible Challenge",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "8618",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "This Vs That",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "8619",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary: Bible",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "8752",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Let\u0027s Go To The Races",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "8790",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Activity",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "9099",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Identity Crisis",
+    "YearPublished": 0
+  },
+  {
+    "Id": "9100",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Secret Agenda",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "9103",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 2,
+    "MinPlayTime": 240,
+    "Name": "Knights and Magick",
+    "YearPublished": 1980
+  },
+  {
+    "Id": "9365",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages: Masters Addendum",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "9890",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "The Riddle Game",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "10274",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Starship Captain",
+    "YearPublished": 1982
+  },
+  {
+    "Id": "10409",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Slogan",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "10462",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Battle of the Sexes",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "10815",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Craps",
+    "YearPublished": 1125
+  },
+  {
+    "Id": "10824",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 50,
+    "MinPlayers": 2,
+    "MinPlayTime": 50,
+    "Name": "SPORTIAMO",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "12366",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Trivial Pursuit Mini Pack: The Good Life",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "12428",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "All Ears",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "12437",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 720,
+    "MinPlayers": 10,
+    "MinPlayTime": 720,
+    "Name": "Asia 1483",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "12819",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "The Dinosaur Game: Survival or Extinction",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "12847",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Stops: Canadian Edition",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "12875",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Cranium Turbo Edition",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "13183",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Trivial Pursuit Mini Pack: Wild Card",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "13261",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Brain Strain",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "13512",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Imagem \u0026 A\u00E7\u00E3o 2",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "13515",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 6,
+    "MinPlayTime": 120,
+    "Name": "Jackpot",
+    "YearPublished": 1974
+  },
+  {
+    "Id": "13916",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Mr \u0026 Mrs",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "14042",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Team Work Original",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "14075",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Zobmondo! The Twisted, Sick \u0026 Wrong Version",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "14162",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Critter Commandos",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "14274",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Jetzt mal ehrlich",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "14360",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Trivial Pursuit: Star Wars \u2013 Episode I",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "14370",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Speechless",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "14824",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Country Music Challenge",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "14970",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Once upon a Time in the West",
+    "YearPublished": 1978
+  },
+  {
+    "Id": "15009",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Humm Bug",
+    "YearPublished": 0
+  },
+  {
+    "Id": "15228",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Hot Death Uno",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "15291",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Fantoccini",
+    "YearPublished": 1969
+  },
+  {
+    "Id": "15563",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 10,
+    "MinPlayers": 4,
+    "MinPlayTime": 10,
+    "Name": "Double Sens",
+    "YearPublished": 0
+  },
+  {
+    "Id": "15597",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 5,
+    "MinPlayTime": 60,
+    "Name": "The Screen Test Game",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "16228",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "For the Masses",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "16481",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Sculptionary",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "17078",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Stops: American Edition",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "17079",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Stops: North American Edition",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "17126",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 360,
+    "MinPlayers": 2,
+    "MinPlayTime": 360,
+    "Name": "Eiyu Sengoku Jidai",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "17159",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Survivor: The Game",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "17515",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Visionary",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "17593",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 3,
+    "MinPlayTime": 240,
+    "Name": "Popes \u0026 Princes",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "17706",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Famous People",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "18228",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages: Prestige Pack",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "18229",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Duel of Ages: Scrye Add-On Pack",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "18239",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "The Hockey Greats",
+    "YearPublished": 0
+  },
+  {
+    "Id": "18418",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 6,
+    "MinPlayTime": 240,
+    "Name": "Community Disaster",
+    "YearPublished": 1965
+  },
+  {
+    "Id": "18723",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Aye, Dark Overlord! The Red Box",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "18765",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Shabadabada",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "18796",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Return of: Once Upon a Time in the West",
+    "YearPublished": 0
+  },
+  {
+    "Id": "18865",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Tree of Knowledge",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "18913",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Tabu Body Talk",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "19289",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Get The Picture",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "19468",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 40,
+    "Name": "Riotous Applause",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "19516",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Waarom? Daarom!",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "20190",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Culture Crash",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "20532",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Team Work: Religion",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "20903",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "I Love the 80s Board Game",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "21278",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "SuDoKu Mania",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "21307",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "World Cup Rugby",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "21357",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Team Work: Musik",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "22017",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Pictionary: After Dinner Mint Edition",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "22018",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Pro Wrestler",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "22372",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Stork Bingo",
+    "YearPublished": 1957
+  },
+  {
+    "Id": "23104",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Space Huk",
+    "YearPublished": 1973
+  },
+  {
+    "Id": "23138",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 12,
+    "MinPlayTime": 240,
+    "Name": "A Dead Man\u0027s Chest",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "23152",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "The Cottonfield Kidnapping!",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23154",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Murder in Philly!",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23173",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Baby New Year Kidnapping!",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23174",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Who Stole the Soul of Jammin Jimmi Fry?",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23184",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Murder at Kool Kat High!",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23470",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Capt\u0027n Pike\u0027s Cruising North America",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "23604",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 180,
+    "MinPlayers": 3,
+    "MinPlayTime": 180,
+    "Name": "The World Cup Game",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "23830",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Fairy Meat Components Pack",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "23894",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Chandal Mandal",
+    "YearPublished": 1575
+  },
+  {
+    "Id": "24377",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Trivial Pursuit Mini Pack: Sports",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "25057",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Mountaineer Mania: The Game",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "25155",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "PerplexCity: The Boardgame",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "25736",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Knowalot",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "26155",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Roundabout Five",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "26192",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Motorchamp: Course Collection I",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "26888",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Hand 2 Hand",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "27451",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Activity 2",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "27581",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Mother",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "27620",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Gauntlet",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "27624",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary: 15th Anniversary",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "27626",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary: 20th Anniversary",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "27689",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Gibberish",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "27967",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 1,
+    "MinPlayTime": 120,
+    "Name": "Samurai Lords: The Wars of Feudal Japan",
+    "YearPublished": 0
+  },
+  {
+    "Id": "28126",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Med IQ",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "28310",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 120,
+    "Name": "Cinematique",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "28911",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Proverbial Wisdom: Bible Edition",
+    "YearPublished": 0
+  },
+  {
+    "Id": "29082",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Man Versus Nature (And some Guns)",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "29818",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Activity Ruhrpott",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "30034",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 7,
+    "MinPlayTime": 0,
+    "Name": "Mayday",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "30198",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 1,
+    "MinPlayTime": 45,
+    "Name": "Bryplay Show Jumping",
+    "YearPublished": 1978
+  },
+  {
+    "Id": "30919",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Trivia: Omaha",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "31073",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Urians H\u00F6llenfahrt",
+    "YearPublished": 1980
+  },
+  {
+    "Id": "31283",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Traxs",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "31284",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "?",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "32227",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Nightmare Before Christmas Party Game",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "32298",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "The World Cup Game:  Expansion Set 2",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "32628",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Utah Trivia",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "32641",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Central Pennsylvania Trivia Game",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "32642",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Rose City Trivia",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "33150",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Cranium WOW",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "33362",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Simply Manners",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "33511",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 600,
+    "MinPlayers": 2,
+    "MinPlayTime": 600,
+    "Name": "Monster Pack #1",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "33776",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Ace Handicap Golf",
+    "YearPublished": 1975
+  },
+  {
+    "Id": "33800",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 120,
+    "Name": "Talent",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "33968",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Team Work: Mozart",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "35720",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Question of Hockey 2",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "35889",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Cranium \u00C9dition Qu\u00E9b\u00E9coise",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "37398",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "fun-et-iks",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "37856",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Trivia New Mexico",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "38423",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Office Space: The Party Game",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "38586",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Sink the Bismarck!",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "38695",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Speedway: World championship formula",
+    "YearPublished": 0
+  },
+  {
+    "Id": "39581",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Citizen X",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39621",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "How to Make War",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39990",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Sjov og Grimasser",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "40101",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Herken de Hits",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "40500",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "New York City Visions",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "41126",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Le magistral",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "41387",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "The World Cup Game:  Expansion Set 5",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "41894",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Activity professional!",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "43156",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Poetikus",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "44089",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 5,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Arena Assault",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "46022",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Minute Mime",
+    "YearPublished": 1975
+  },
+  {
+    "Id": "46023",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Shagai Bones",
+    "YearPublished": 0
+  },
+  {
+    "Id": "47123",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Insult Bingo",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "48650",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Trivia Pittsburgh",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "50849",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Le Boomb!",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "50934",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Hack In The Dark Ages 250 AD to 1000 AD",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "55702",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Stratrivia",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "56403",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Activity Turbo",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "56405",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Activity Turbo Junior",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "56406",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Activity Club-Edition",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "56407",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "20 Jahre Activity",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "56408",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Let\u0027s Party!",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "56409",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Activity Travel",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "56410",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Activity kompakt",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "56411",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Activity My First",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "56688",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Activity P\u00F3tk\u00E9rd\u00E9sek I.",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "56689",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Activity P\u00F3tk\u00E9rd\u00E9sek II.",
+    "YearPublished": 0
+  },
+  {
+    "Id": "56888",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Action",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "57025",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Activity Action P\u00F3tk\u00E9rd\u00E9sek",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "59226",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 6,
+    "MinPlayTime": 60,
+    "Name": "Beugr\u00F3",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "59819",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Magyarorsz\u00E1g Quiz",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "60303",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Im\u00E1dkozz okosan",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "61381",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "EinSATZ bitte!",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "61775",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 180,
+    "MinPlayers": 2,
+    "MinPlayTime": 180,
+    "Name": "Roman Seas",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63251",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Het Gezelligste Sinterklaas Spel",
+    "YearPublished": 0
+  },
+  {
+    "Id": "63412",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "The Combat with the Giant: New Invented and Entertaining Game",
+    "YearPublished": 1796
+  },
+  {
+    "Id": "63763",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Sound \u0027n\u0027 Faces",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "64345",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "The Great British Trivia Challenge",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "66108",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Swing Set",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "68468",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "T\u00E9te de la Course",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "72050",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Freebooter\u0027s Fate",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "72650",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Gator Trivia",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "72682",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Trivia Philadelphia",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "73751",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Pictionaussie",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "74857",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "\u03A3\u03C9\u03BA\u03C1\u03AC\u03C4\u03B7\u03C2",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "76322",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Double Bananagrams",
+    "YearPublished": 0
+  },
+  {
+    "Id": "78653",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Jukebox Trivia",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "79796",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Motus: Words In Motion",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "79815",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Fu\u00DFball Weltmeisterschaft",
+    "YearPublished": 1973
+  },
+  {
+    "Id": "80184",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Spit It Out!",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "81104",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Spinmaster",
+    "YearPublished": 0
+  },
+  {
+    "Id": "84716",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Activity Superthema Freizeit und Essen",
+    "YearPublished": 0
+  },
+  {
+    "Id": "84770",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 7,
+    "MinPlayTime": 30,
+    "Name": "Zomboree",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "84957",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "The World Cup Game: Expansion Set 6",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "85670",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Lingua Ludica",
+    "YearPublished": 0
+  },
+  {
+    "Id": "86178",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 8,
+    "MinPlayTime": 240,
+    "Name": "T\u0027was A Night of Pandemonium: A Christmas Murder",
+    "YearPublished": 0
+  },
+  {
+    "Id": "86317",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 8,
+    "MinPlayTime": 240,
+    "Name": "Chronicles of Zombie Town",
+    "YearPublished": 0
+  },
+  {
+    "Id": "86319",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 240,
+    "MinPlayers": 8,
+    "MinPlayTime": 240,
+    "Name": "Homicide On Halloween at the Chamber of Screams Haunted House",
+    "YearPublished": 0
+  },
+  {
+    "Id": "86758",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Ben ik... Napoleon?",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "88088",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 40,
+    "Name": "Cranium: Disney Family Edition",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "88167",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Apples To Apples: Family",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "88585",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Scorpio",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "89957",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "\u0420\u0438\u0441\u0443\u043C\u0435\u0439",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "91201",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Activity Code Word",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "98360",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Activity Erg\u00E4nzungsset 1000 Jahre \u00D6sterreich",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "99018",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Bridge Keno",
+    "YearPublished": 1929
+  },
+  {
+    "Id": "99067",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "The Hat",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "108032",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Canada Quiz",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "108310",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Flashing Steel",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "109355",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Eduard Vilde kaardim\u00E4ng",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "110336",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Jumpy Jack",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "110752",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 5,
+    "MinPlayers": 1,
+    "MinPlayTime": 5,
+    "Name": "The Deck of Change",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "114045",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Superthema Heute",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "114046",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Superthema K\u00F6rper \u0026 Natur",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "114047",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Superthema Urlaub \u0026 Sport",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "114140",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity 1997",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "114141",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity 1996",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "114143",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity: Alles ist m\u00F6glich",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "114144",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Celebrations",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "114145",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Activity Countdown",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "114155",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Zusatzkarten",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "114158",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity Die siebziger Jahre! Zusatzkarten",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "114159",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Celebrations Activity Mini Edition",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "114160",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Kelly\u0027s Activity pocket",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "114288",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Cranium: Glee Edition",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "115008",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "QuizDan",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "115339",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 5,
+    "MinPlayers": 4,
+    "MinPlayTime": 5,
+    "Name": "Abstractables",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "117487",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Feudal Lord expansion kit",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "117490",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Feudal Lord extension leader counter sheet Nr.1",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "119871",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Shabadabada 2",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "123487",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Shabadabada Cinoche",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "123488",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Shabadabada: Edition occitane",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "123489",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Shabadabada 416",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "124492",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Geschlechterkampf 2",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "124635",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Travelling To?",
+    "YearPublished": 1955
+  },
+  {
+    "Id": "126162",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Challengia",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "128282",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Party \u0026 Co Disney",
+    "YearPublished": 0
+  },
+  {
+    "Id": "129638",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Absolutely English",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "129837",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Words of Life",
+    "YearPublished": 1982
+  },
+  {
+    "Id": "129987",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Activity Lifestyle",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "130048",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Activity: Gold Edition",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "133230",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Doodlebug",
+    "YearPublished": 0
+  },
+  {
+    "Id": "134224",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Twisted Eyes",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "134873",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Cranium Bible Edition",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "137686",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 10,
+    "Name": "Charades In-A-Box: 80s",
+    "YearPublished": 0
+  },
+  {
+    "Id": "138219",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Geometrical Riddles: Master Level",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "138220",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Geometrical Riddles: Genius Level",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "138221",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Geometrical Riddles: Novice Level",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "138222",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Shadow Mysteries",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "138223",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Left Brain Right Brain",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "138224",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "MindTrap Brain Cramp",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "139405",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Nyans",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "142704",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Double Sens 2",
+    "YearPublished": 0
+  },
+  {
+    "Id": "143186",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Double Sens 3",
+    "YearPublished": 0
+  },
+  {
+    "Id": "143187",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Double Sens 4",
+    "YearPublished": 0
+  },
+  {
+    "Id": "143692",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Warriors of Darkmyre",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "144445",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Dicktionary",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "146471",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "AirWar: C21 bomber annex",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "147242",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "A Terrible Time: The Party Game Where Everyone Loses",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "147387",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Lights, Camera, Action!",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "147843",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Trivia Louisville",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "148742",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 3,
+    "MinPlayTime": 40,
+    "Name": "Pro \u0026 Contra",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "150483",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Star Draft",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "153963",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary: U.S. Armed Forces Edition",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "156710",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Das gro\u00DFe Shell Rennspiel",
+    "YearPublished": 0
+  },
+  {
+    "Id": "157209",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Hounds of War",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "157775",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Wanted",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "159629",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Welches Tier bin ich?",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "162295",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Zik",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "163040",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Det d\u00E5rlige selskab",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "164762",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 45,
+    "MinPlayers": 1,
+    "MinPlayTime": 45,
+    "Name": "Escape From Planet Pook",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "166388",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Vampire Mafia",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "167019",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 1,
+    "MinPlayTime": 90,
+    "Name": "Murder Party \u00E0 Manhattan",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "167679",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 6,
+    "MinPlayTime": 60,
+    "Name": "Beugr\u00F3: \u00FAjrat\u00F6ltve",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "169196",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Contact",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "170261",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 1,
+    "MinPlayTime": 15,
+    "Name": "Boomzie",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "170927",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Kortslutning",
+    "YearPublished": 0
+  },
+  {
+    "Id": "174988",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 1,
+    "MinPlayTime": 5,
+    "Name": "4 en Letras",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "179556",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 180,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "The Games: Blood and Spectacle",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "181587",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Werewolf Game",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "182062",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Movie Buff",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182516",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Game for Fame",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "184190",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Crazy Therapy!!",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "184886",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Showtime",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "185604",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 180,
+    "Name": "Trivia San Diego",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "190104",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Activity Family Classic",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "190614",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Googly Eyes",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "192345",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Keskif\u00E9?",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "197435",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 50,
+    "Name": "Santa VS Jesus",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "199175",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Devil\u0027s Advocate",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "201227",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 2,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Psychiatrist the Game",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "201512",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 23,
+    "MinPlayers": 2,
+    "MinPlayTime": 3,
+    "Name": "\u0022That\u0027s Me!\u0022",
+    "YearPublished": 1937
+  },
+  {
+    "Id": "201960",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 120,
+    "MinPlayers": 6,
+    "MinPlayTime": 60,
+    "Name": "Backstab: Danse Macabre expansion",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "226114",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Floods Krigsspel",
+    "YearPublished": 1914
+  },
+  {
+    "Id": "204897",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Chicken",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "205081",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 40,
+    "Name": "Activity: 25th anniversary edition",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "209475",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 150,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "The Game Room Part 1: Mr. Boddy",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "212960",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Kampfgruppe Commander III",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "213963",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Det d\u00E5rlige selskab: udvidelse #1 \u2013 Ekstra upassende!",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "216014",
+    "MaxPlayers": 16,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Aye, Dark Overlord! The Green Box",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "11571",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Pieces of Eight",
+    "YearPublished": 0
+  },
+  {
+    "Id": "27153",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "il Gioco del Palio di Siena",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "33208",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 0,
+    "Name": "What?",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "41587",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "\u042D\u0440\u0443\u0434\u0438\u0442",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "110483",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Kuku",
+    "YearPublished": 0
+  },
+  {
+    "Id": "110773",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Turbo Kutas",
+    "YearPublished": 0
+  },
+  {
+    "Id": "117823",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "FitzIt",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "166019",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 20,
+    "MinPlayers": 7,
+    "MinPlayTime": 20,
+    "Name": "Mafia: Vendetta",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "170194",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 10,
+    "MinPlayers": 5,
+    "MinPlayTime": 10,
+    "Name": "Dangan Ronpa Chou Koukyuu No Jinrou Maniax",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "170968",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 10,
+    "MinPlayers": 5,
+    "MinPlayTime": 10,
+    "Name": "Dangan Ronpa 1\uFF652  Chou Koukou Kyuu No Jinrou",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "182948",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 90,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Orphanage of Fear",
+    "YearPublished": 0
+  },
+  {
+    "Id": "205506",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 40,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Huh?",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "217270",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 20,
+    "MinPlayers": 5,
+    "MinPlayTime": 5,
+    "Name": "Kamasutra",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "217805",
+    "MaxPlayers": 17,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 20,
+    "Name": "Spy King",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "1353",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Time\u0027s Up!",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "2592",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Director\u0027s Cut",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "3391",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Loft Story",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "7295",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Harassment",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "7916",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Funny Face",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "10163",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Collector ... das markante Gesellschaftsspiel f\u00FCr Pfiffige",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "10801",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Tack-Tics",
+    "YearPublished": 1983
+  },
+  {
+    "Id": "14512",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Bar\u00F3n Rojo",
+    "YearPublished": 1981
+  },
+  {
+    "Id": "14536",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Time\u0027s Up! Expansion set #1",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "14537",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Time\u0027s Up! Expansion set #2",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "14988",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Scholar Venture",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "16082",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Baseball by the Numbers",
+    "YearPublished": 0
+  },
+  {
+    "Id": "16258",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "War of the Star Slavers",
+    "YearPublished": 1977
+  },
+  {
+    "Id": "16608",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Jewels in the Attic",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "21713",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "The Werewolves of Miller\u0027s Hollow: New Moon",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "22432",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Africa 1483",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "22747",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Viisasten Kokous",
+    "YearPublished": 0
+  },
+  {
+    "Id": "25821",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "The Werewolves of Miller\u0027s Hollow",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "26018",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "HappyAnimals",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "27304",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Substitute Golf",
+    "YearPublished": 1906
+  },
+  {
+    "Id": "27666",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Peace In Our Time",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "29034",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 240,
+    "MinPlayers": 10,
+    "MinPlayTime": 240,
+    "Name": "Murder of a Millionaire",
+    "YearPublished": 0
+  },
+  {
+    "Id": "29501",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 90,
+    "MinPlayers": 1,
+    "MinPlayTime": 90,
+    "Name": "Bop Baseball",
+    "YearPublished": 1961
+  },
+  {
+    "Id": "29901",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Right Off The Bat",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "30710",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "One The Board Game",
+    "YearPublished": 0
+  },
+  {
+    "Id": "34365",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 9,
+    "MinPlayers": 2,
+    "MinPlayTime": 9,
+    "Name": "B-B Ball Players Baseball Game",
+    "YearPublished": 1957
+  },
+  {
+    "Id": "36553",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Time\u0027s Up! Title Recall!",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "37141",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Time\u0027s Up! Deluxe",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39015",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Check Your 6! Falcon of the Duce",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "39592",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Check Your 6! Aces Over Hungary",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39729",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Pictionary Hong Kong Golden Edition",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "40099",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Wine Fluency",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "45974",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Tudor Tru Action Electric Baseball",
+    "YearPublished": 1959
+  },
+  {
+    "Id": "50698",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 8,
+    "MinPlayTime": 45,
+    "Name": "Hundim\u00E4ng",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "52012",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Time\u0027s Up! Deluxe Sample",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "52013",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Time\u0027s Up! Title Recall Sample",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "52880",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Picture Puzzles",
+    "YearPublished": 1930
+  },
+  {
+    "Id": "56885",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "The Werewolves of Miller\u0027s Hollow: The Village",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "60165",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "Time\u0027s Up! Game Geek Expansion",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63408",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "The Magic Ring: A new game. Replete with Humour and Pleasant Variety",
+    "YearPublished": 1796
+  },
+  {
+    "Id": "65192",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "On the Road to California Wines",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "79843",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 360,
+    "MinPlayers": 2,
+    "MinPlayTime": 360,
+    "Name": "Civilization: The Expansion Project",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "92702",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Junior Dessinez c\u0027est gagn\u00E9",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "95495",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Ascot",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "109050",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 120,
+    "MinPlayers": 1,
+    "MinPlayTime": 120,
+    "Name": "Ice Racing",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "115208",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Das 6600 Fragen-Quiz",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "116564",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Winko Baseball",
+    "YearPublished": 1945
+  },
+  {
+    "Id": "120598",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "D\u00E9fifoo Classic",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "123239",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 25,
+    "MinPlayers": 4,
+    "MinPlayTime": 25,
+    "Name": "Wits \u0026 Wagers Party",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "128842",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Das Wissens-Quiz",
+    "YearPublished": 0
+  },
+  {
+    "Id": "131271",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Pickle",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "137640",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Al Murray The Pub Landlord Ultimate Pub Quiz",
+    "YearPublished": 0
+  },
+  {
+    "Id": "148461",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 6,
+    "MinPlayTime": 15,
+    "Name": "Mutiny",
+    "YearPublished": 0
+  },
+  {
+    "Id": "151554",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 20,
+    "MinPlayers": 7,
+    "MinPlayTime": 20,
+    "Name": "Naughty? or Nice?",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "152872",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 720,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Pats baisiausias \u017Eaidimas",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "158409",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 15,
+    "MinPlayers": 6,
+    "MinPlayTime": 15,
+    "Name": "The Salem Curse",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "162829",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Mona Lisa hat keine Augenbrauen: Das Spiel \u2013 Die volle Dosis unn\u00FCtzes Wissen",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "169871",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "I Hate Zombies: We Hate Zombies Too",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "174406",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Dip Words",
+    "YearPublished": 0
+  },
+  {
+    "Id": "178570",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 10,
+    "Name": "Unusual Suspects",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182241",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 7,
+    "MinPlayTime": 0,
+    "Name": "Werewolf: Dystopia",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "184424",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 720,
+    "MinPlayers": 5,
+    "MinPlayTime": 360,
+    "Name": "Mega Civilization",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "190330",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Focus",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "195342",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 60,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Thieves and Cops: Blink to your Victim",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "201636",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 45,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "The Game of Planting",
+    "YearPublished": 1865
+  },
+  {
+    "Id": "203535",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 3,
+    "MinPlayers": 2,
+    "MinPlayTime": 1,
+    "Name": "White Text on Black Cards",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "221605",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Least I Could Do: The Card Game \u2013 Sloppy Seconds",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "204508",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "What The Dub?",
+    "YearPublished": 0
+  },
+  {
+    "Id": "204616",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 10,
+    "Name": "Unusual Suspects: Burn After Playing",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "211995",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 20,
+    "Name": "Kill Game",
+    "YearPublished": 0
+  },
+  {
+    "Id": "214534",
+    "MaxPlayers": 18,
+    "MaxPlayTime": 120,
+    "MinPlayers": 12,
+    "MinPlayTime": 90,
+    "Name": "Generisk",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "20922",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Running Charades",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "23141",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 240,
+    "MinPlayers": 6,
+    "MinPlayTime": 240,
+    "Name": "Curse of the Pharaoh: expansion",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "25066",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Stumpy the Cave Boy",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "101531",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 202,
+    "MinPlayers": 9,
+    "MinPlayTime": 202,
+    "Name": "Trade-off: The Land Use Planning Game",
+    "YearPublished": 1979
+  },
+  {
+    "Id": "181009",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "BowTilz!",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "192514",
+    "MaxPlayers": 19,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 3,
+    "Name": "No lo testeamos ni un Poco: Picante",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "830",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "FIB-OR-NOT?",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "890",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 1,
+    "MinPlayTime": 90,
+    "Name": "Real Action Stockcar Championship",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "1021",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 25,
+    "MinPlayers": 2,
+    "MinPlayTime": 25,
+    "Name": "Harun",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "1198",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "SET",
+    "YearPublished": 1988
+  },
+  {
+    "Id": "1540",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "BattleTech",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "2470",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "The Extraordinary Adventures of Baron Munchausen",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "2705",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Blazing Aces! A Fistful of Family Card Games",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "2813",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 1,
+    "MinPlayTime": 45,
+    "Name": "Scrabble Duplicate Crossword Game",
+    "YearPublished": 1975
+  },
+  {
+    "Id": "3533",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Arena of Death",
+    "YearPublished": 1980
+  },
+  {
+    "Id": "3616",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "BattleForce",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "3697",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "The Couch Potato Game",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "3881",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Last Starfighter: Tunnel Chase",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "4213",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Mao",
+    "YearPublished": 1961
+  },
+  {
+    "Id": "4561",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Carrera de Mente",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "4569",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Insight",
+    "YearPublished": 1967
+  },
+  {
+    "Id": "4862",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Outburst!",
+    "YearPublished": 1986
+  },
+  {
+    "Id": "4864",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Scene It? Movie",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "5122",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Charades",
+    "YearPublished": 1550
+  },
+  {
+    "Id": "5265",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Commando",
+    "YearPublished": 1979
+  },
+  {
+    "Id": "5665",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 6,
+    "MinPlayTime": 90,
+    "Name": "Trial!",
+    "YearPublished": 1971
+  },
+  {
+    "Id": "6315",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Seriously Silly",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "6538",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Mystify",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "7041",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "H-Hour",
+    "YearPublished": 1976
+  },
+  {
+    "Id": "7073",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Twisted Tongue",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "7195",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 3,
+    "MinPlayTime": 180,
+    "Name": "Flash Gordon \u0026 the Warriors of Mongo",
+    "YearPublished": 1977
+  },
+  {
+    "Id": "7380",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Rubberneckers",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "7767",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Gladiators",
+    "YearPublished": 1975
+  },
+  {
+    "Id": "7771",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "En Garde!",
+    "YearPublished": 1975
+  },
+  {
+    "Id": "7784",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Mustangs and Messerschmitts",
+    "YearPublished": 1983
+  },
+  {
+    "Id": "7874",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "First Impressions",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "8335",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Say What!?!",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "8564",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Music Mystery",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "8624",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Outburst Bible Edition",
+    "YearPublished": 1989
+  },
+  {
+    "Id": "9008",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Inventions Trivia",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "9377",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Bumper to Bumper: Real Life Stock Car Racing",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "9856",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Hubbub: The Game of Sound, Mind \u0026  Body",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "10501",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Canvas Eagles",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "10714",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Adult Late Night Games",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "11847",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Super Sharp Pencil \u0026 Paper Games",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "12160",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "APBA American Saddle Racing",
+    "YearPublished": 1970
+  },
+  {
+    "Id": "12351",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Truth? or Fib?",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "12363",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Spit It Out!",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "12388",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Boob Tube",
+    "YearPublished": 1962
+  },
+  {
+    "Id": "12448",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 3,
+    "MinPlayTime": 120,
+    "Name": "Green Flag Racing",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "12570",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Provopoli: Wem geh\u00F6rt die Stadt",
+    "YearPublished": 1972
+  },
+  {
+    "Id": "12919",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Verbositi",
+    "YearPublished": 1987
+  },
+  {
+    "Id": "13135",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Poserbility",
+    "YearPublished": 0
+  },
+  {
+    "Id": "13244",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Kansojen Kisat",
+    "YearPublished": 1974
+  },
+  {
+    "Id": "13563",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Sexy Slang",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "13669",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 2,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "Desperado",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "13706",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Tank Charts",
+    "YearPublished": 1978
+  },
+  {
+    "Id": "13972",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "Party \u0026 Co",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "14154",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 1,
+    "MinPlayers": 2,
+    "MinPlayTime": 1,
+    "Name": "Hidden Agenda: The Dinner Party Game",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "14384",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Articulate Extra Pack No. 1",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "14627",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Soundscape",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "14628",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Soundscape: Junior Edition",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "15277",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Coopetition",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "15566",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "An Account of Peter Coddle\u0027s Visit to New York",
+    "YearPublished": 1890
+  },
+  {
+    "Id": "15569",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Psilink: The Memory Game of the Millenia",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "15866",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Junior Articulate",
+    "YearPublished": 0
+  },
+  {
+    "Id": "16048",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Cinema",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "16049",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Dictionwary",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "16309",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Blank Expression",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "16420",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Catch Phrase Junior",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "16531",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Escapades",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "17886",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Crossword Bingo",
+    "YearPublished": 1981
+  },
+  {
+    "Id": "18548",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 6,
+    "MinPlayTime": 60,
+    "Name": "Mission \u0027N\u0027 Possible",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "19288",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Cordite and Steel",
+    "YearPublished": 1977
+  },
+  {
+    "Id": "19434",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "The Pitch! TV Edition",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "19663",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 1,
+    "MinPlayers": 1,
+    "MinPlayTime": 1,
+    "Name": "Instant Math Games that Teach",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "19875",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "The Tailless Donkey",
+    "YearPublished": 1887
+  },
+  {
+    "Id": "19891",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Poorman\u0027s Trivia",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "19974",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Who Am I? Bible Game",
+    "YearPublished": 1942
+  },
+  {
+    "Id": "20405",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Words",
+    "YearPublished": 1983
+  },
+  {
+    "Id": "20502",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 6,
+    "MinPlayTime": 90,
+    "Name": "How To Host a Scavenger Hunt: Animal Safari",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "21135",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 25,
+    "MinPlayers": 6,
+    "MinPlayTime": 25,
+    "Name": "Coopetition: On the Go!",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "21603",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Rich Little\u0027s VCR Charades",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "21805",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "BuddhaWheel",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "21880",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Dicecar",
+    "YearPublished": 1997
+  },
+  {
+    "Id": "21886",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Beginning Math Roll \u0026 Learn Pocket Cubes",
+    "YearPublished": 0
+  },
+  {
+    "Id": "21889",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Beginning Language Roll \u0026 Learn Pocket Cubes",
+    "YearPublished": 0
+  },
+  {
+    "Id": "22247",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 7,
+    "MinPlayTime": 20,
+    "Name": "Musical Assassins",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "22344",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Fatal Rendez Vous",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "22438",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 150,
+    "MinPlayers": 10,
+    "MinPlayTime": 150,
+    "Name": "Murder at the Four Deuces Teen",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "22722",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Travel Mania",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "23114",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 240,
+    "MinPlayers": 15,
+    "MinPlayTime": 240,
+    "Name": "Casino Fatale",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "23115",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 12,
+    "MinPlayTime": 180,
+    "Name": "Murder at the Four Deuces 2",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "23117",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 8,
+    "MinPlayTime": 180,
+    "Name": "The Immortal Murders",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23446",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Dudeln",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "23565",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "TimeTripper",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "23952",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "More After Dinner Games Compendium",
+    "YearPublished": 1998
+  },
+  {
+    "Id": "24101",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 40,
+    "Name": "Trailer",
+    "YearPublished": 0
+  },
+  {
+    "Id": "24562",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "McWiz: The Ultimate Game of Knowledge and Trivia",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "25090",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 5,
+    "MinPlayers": 1,
+    "MinPlayTime": 5,
+    "Name": "Bingo Party",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "25213",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "30 Seconds",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "26409",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Spy",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "26511",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "After Dinner Games",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "27299",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Radio Star",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "27464",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "FlipFlash",
+    "YearPublished": 0
+  },
+  {
+    "Id": "27512",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Screen Test!",
+    "YearPublished": 2004
+  },
+  {
+    "Id": "27826",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "What\u0027s Yours Like?",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "27846",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Joint Efforts: Primary Edition",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "27893",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "After Dinner Games Compendium",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "27899",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Chain Reaction",
+    "YearPublished": 0
+  },
+  {
+    "Id": "28085",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Duelo \u0026 CIA.",
+    "YearPublished": 0
+  },
+  {
+    "Id": "28315",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Bummer",
+    "YearPublished": 1991
+  },
+  {
+    "Id": "28424",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Napoleonic Quick March",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "28526",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Two Up",
+    "YearPublished": 1850
+  },
+  {
+    "Id": "28761",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 150,
+    "MinPlayers": 10,
+    "MinPlayTime": 150,
+    "Name": "Murder at the Four Deuces",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "28881",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Game as Ned Kelly",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "29020",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Party \u0026 Co: Extreme",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "29305",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 6,
+    "MinPlayTime": 180,
+    "Name": "How to Host a Scavenger Hunt: Sports Safari",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "29306",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 6,
+    "MinPlayTime": 180,
+    "Name": "How to Host a Scavenger Hunt: Traveler Safari",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "29514",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "The Bowl Game",
+    "YearPublished": 0
+  },
+  {
+    "Id": "30324",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 0,
+    "Name": "Ca$h \u0027n Gun$: Live",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "31121",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "You Name It!",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "31286",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Het Grote Taalspel Frans",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "31395",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "Party \u0026 Co Expansion",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "31411",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Sanamania",
+    "YearPublished": 0
+  },
+  {
+    "Id": "31991",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Quiz Ladder",
+    "YearPublished": 0
+  },
+  {
+    "Id": "32688",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Scene It? Movie Second Edition",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "32794",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 35,
+    "MinPlayers": 2,
+    "MinPlayTime": 35,
+    "Name": "Disney Pictionary DVD Game",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "33045",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 240,
+    "MinPlayers": 2,
+    "MinPlayTime": 240,
+    "Name": "A Glint of Bayonets",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "33517",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "El juego del siglo",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "35025",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 1,
+    "MinPlayTime": 10,
+    "Name": "Link 26",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "35143",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Olympic Challenge: The Boardgame",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "35653",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "BattleTech: Reinforcements",
+    "YearPublished": 1985
+  },
+  {
+    "Id": "35919",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 2,
+    "MinPlayTime": 180,
+    "Name": "Pas de CHARGE!",
+    "YearPublished": 1977
+  },
+  {
+    "Id": "36103",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Battle Bots",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "36396",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "W.C. Fields Chickadee Poker",
+    "YearPublished": 1972
+  },
+  {
+    "Id": "36669",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Zoom! in on French",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "36681",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Recall Comedy",
+    "YearPublished": 0
+  },
+  {
+    "Id": "36750",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Talking Traffic",
+    "YearPublished": 0
+  },
+  {
+    "Id": "36937",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 90,
+    "Name": "Sexy Slang\u0027s Naughty Charades ",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "37164",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 240,
+    "MinPlayers": 3,
+    "MinPlayTime": 240,
+    "Name": "Rules for the conduct of the war-game on a map",
+    "YearPublished": 1896
+  },
+  {
+    "Id": "37365",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Pterraductyl",
+    "YearPublished": 1980
+  },
+  {
+    "Id": "37686",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 5,
+    "MinPlayTime": 15,
+    "Name": "O\u00F9 \u00E9tiez-vous?",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "37939",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Rock of Ages",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "38352",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "The No Game",
+    "YearPublished": 0
+  },
+  {
+    "Id": "38490",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Auf dem Weg zum Million\u00E4r: Die 80er Jahre",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "38503",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Clear for Action",
+    "YearPublished": 1977
+  },
+  {
+    "Id": "38571",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Christmas Party Gift Exchange Game",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "38582",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 40,
+    "Name": "Anaconda (1864)",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "38614",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Brawl in the Dark",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "38753",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 10,
+    "MinPlayTime": 180,
+    "Name": "The Game of Oppression",
+    "YearPublished": 0
+  },
+  {
+    "Id": "38987",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Speed Rally",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "39048",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Flying Rubberneckers",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "39049",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Rubbernecker, Jr.",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "39350",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Paper Football",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "39571",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "To The Top",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "40249",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Luck",
+    "YearPublished": 1943
+  },
+  {
+    "Id": "40556",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Das Camp",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "41419",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Naval Thunder: Clash of Dreadnoughts",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "42191",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Party \u0026 Co: Summer",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "43047",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Don\u0027t Bug Me",
+    "YearPublished": 1970
+  },
+  {
+    "Id": "43792",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Snappy Nappy",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "44501",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Hyperspace Hack",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "51832",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 120,
+    "Name": "Flabbergast",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "53317",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Pictureka! Card Game",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "59004",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Yet Another LEGO Universe Game System (Y.A.L.U.G.S.)",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "59254",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Black Heritage Trivia Game for Kids",
+    "YearPublished": 0
+  },
+  {
+    "Id": "60076",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Naval Thunder:  Battleship Row",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "61654",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 12,
+    "MinPlayTime": 30,
+    "Name": "Room Full of Zombies: Party Edition",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63256",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Wine Teasers",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "63526",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "About Time: Das ZEIT Spiel",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63527",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "About Time: USA Edition",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63674",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "La Gran Trivia Chilena",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63837",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Infunitum",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "63918",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 7,
+    "MinPlayTime": 20,
+    "Name": "Detective",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "65359",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Super Rock Paper Scissors",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "68605",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Kocham Ci\u0119, Polsko!",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "69135",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Partymime",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "70376",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Super Comics",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "73715",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 360,
+    "MinPlayers": 2,
+    "MinPlayTime": 360,
+    "Name": "Alien Struggle",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "75295",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Naval Thunder: Rise of the Battleship",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "75644",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Check Your 6! Jet Age",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "85437",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Think Tank",
+    "YearPublished": 1973
+  },
+  {
+    "Id": "88155",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 6,
+    "MinPlayTime": 45,
+    "Name": "Telegruv",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "88277",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 5,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Word Bluff Table Top Game",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "88825",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 1,
+    "MinPlayTime": 30,
+    "Name": "Choose Your Clues",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "89443",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Jamaica",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "90125",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Acuity",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "90135",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Strip Poker Dice Game",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "91448",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Scene It? Comedy Movies",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "92177",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Articulate! Your Life",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "92465",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 75,
+    "MinPlayers": 7,
+    "MinPlayTime": 75,
+    "Name": "Sporz Original Outbreak",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "99173",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Selten so gelacht!",
+    "YearPublished": 1960
+  },
+  {
+    "Id": "100256",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 3,
+    "MinPlayTime": 20,
+    "Name": "Who is The Doctor?: Demon\u0027s Run Standoff",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "100739",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 0,
+    "MinPlayTime": 0,
+    "Name": "Flash",
+    "YearPublished": 1959
+  },
+  {
+    "Id": "102838",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Check Your 6! Jet Age: Star and Pyramid",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "103363",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Party on the beach",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "103364",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 90,
+    "Name": "Party \u0026 Co XX Century",
+    "YearPublished": 1999
+  },
+  {
+    "Id": "104635",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Would You Rather? DVD Game",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "104767",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 2,
+    "MinPlayTime": 180,
+    "Name": "ESPN Scorecards:  The Game",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "107549",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "110836",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Biblisches Frage und Antwortspiel",
+    "YearPublished": 1954
+  },
+  {
+    "Id": "112083",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Creative Kitchen: The Game",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "112364",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Outside the Box",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "112734",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Empires And Generals",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "113499",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Planken Ud Knud!",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "114283",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "Party \u0026 Co Familiar",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "117005",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Brainrun",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "120870",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "El Mel\u00F3mano",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "121454",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Veilig Verkeer Spel",
+    "YearPublished": 0
+  },
+  {
+    "Id": "122813",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Auf dem Weg zum Million\u00E4r",
+    "YearPublished": 2001
+  },
+  {
+    "Id": "125892",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Minute\u0027s the Limit",
+    "YearPublished": 1960
+  },
+  {
+    "Id": "126158",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "United Challenge",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "127085",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Geographical Lotto",
+    "YearPublished": 0
+  },
+  {
+    "Id": "129603",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 7,
+    "MinPlayTime": 30,
+    "Name": "\u03A0\u03B1\u03BB\u03AD\u03C1\u03BC\u03BF: \u03A4\u03BF \u039C\u03B5\u03B3\u03AC\u03BB\u03BF \u039E\u03B5\u03BA\u03B1\u03B8\u03AC\u03C1\u03B9\u03C3\u03BC\u03B1",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "130184",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 50,
+    "MinPlayers": 4,
+    "MinPlayTime": 50,
+    "Name": "Nounsense",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "130526",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Ulewin",
+    "YearPublished": 1950
+  },
+  {
+    "Id": "130599",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "Das kleine Bankett und andere Abenteuer",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "130705",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 1,
+    "MinPlayTime": 60,
+    "Name": "Super Big Boggle",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "130777",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Wonderfully Wacky Bar Games",
+    "YearPublished": 2002
+  },
+  {
+    "Id": "132784",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "El Memorioso",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "132812",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 8,
+    "MinPlayTime": 20,
+    "Name": "Bibelthriller",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "134139",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Bar Hopping",
+    "YearPublished": 1990
+  },
+  {
+    "Id": "134348",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 25,
+    "MinPlayers": 3,
+    "MinPlayTime": 25,
+    "Name": "North Star Games BGG Promo Pack",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "135149",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "North Star Games Promo Facebook Cards",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "135481",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 5,
+    "MinPlayers": 5,
+    "MinPlayTime": 5,
+    "Name": "Hektik",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "135611",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Owl Game",
+    "YearPublished": 1700
+  },
+  {
+    "Id": "136952",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "poco a poco",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "137087",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Scenarium",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "139587",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 1,
+    "MinPlayTime": 15,
+    "Name": "Leprechaun Gold (King Domnall\u0027s Treasure)",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "139711",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "The Mind\u0027s Lie",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "142191",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 6,
+    "MinPlayTime": 40,
+    "Name": "\u041C\u0430\u0444\u0438\u044F",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "142296",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Funemployed!",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "142394",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "Mafia: Death and Deception",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "142859",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "The Offensive Band Name Generator",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "146156",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "30 Seconds Uitbreiding",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "146157",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "30 Seconds Junior",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "147660",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Gemstone",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "148671",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Ideas al Minuto",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "148672",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "Fobal",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "149109",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Crabs Adjust Humidity: Volume Two (unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "149470",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Gemstone Companion",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "149471",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Gemstone Adventures",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "150910",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Bible Bafflers, Jr.",
+    "YearPublished": 1984
+  },
+  {
+    "Id": "151090",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "End of the World Card Game",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "151433",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 5,
+    "MinPlayTime": 20,
+    "Name": "Wolf The Game",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "151451",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Know It All",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "151532",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Draw Something Party",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "151610",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Shut Your Mao!",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "152626",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 4,
+    "MinPlayTime": 45,
+    "Name": "The Big Bang Theory: Ultimate Genius Party Game",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "153188",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 3,
+    "MinPlayTime": 10,
+    "Name": "Rough: The Card Game",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "154396",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "The Night Before Christmas",
+    "YearPublished": 1896
+  },
+  {
+    "Id": "154709",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Cards Against Librarianship",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "155425",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Hannibal Island",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "156546",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Monikers",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "158265",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 20,
+    "MinPlayers": 6,
+    "MinPlayTime": 20,
+    "Name": "Rant!",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "158781",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 4,
+    "MinPlayTime": 40,
+    "Name": "Brangle",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "159045",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Crabs Adjust Humidity: Volume Three (unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "160552",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "No Shame Charades",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "161720",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 7,
+    "MinPlayTime": 0,
+    "Name": "Rumplestiltskin!",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "161928",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Utter Nonsense",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "161957",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Black Sheep Gone Wild",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "162852",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 10,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Toplshteyner: An All New Dice Game",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "163046",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "ZtoZ",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "163645",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 12,
+    "MinPlayers": 2,
+    "MinPlayTime": 12,
+    "Name": "WOMBAT! The game of Word Combat!",
+    "YearPublished": 0
+  },
+  {
+    "Id": "164544",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "1 Minute",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "164580",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Articulate Sex",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "165020",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Missing Link",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "166081",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Bucket of Doom",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "167715",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 0,
+    "Name": "Moral Dilemma",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "168013",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 10,
+    "Name": "Twisted Kicks",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "168254",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 0,
+    "Name": "Moral Dilemma: Option C expansion",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "168634",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Tic-Tac-Bullshit",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "168716",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Famous Moral Dilemmas of History",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "168857",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "The Red Dragon Inn: Allies \u2013 Wrench",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "169503",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Crabs Adjust Humidity: Volume Four (unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "169562",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 0,
+    "Name": "Moral Dilemma: Moral Compass Expansion",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "169563",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 5,
+    "MinPlayTime": 0,
+    "Name": "Moral Dilemma: Modes Expansion",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "170956",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 1,
+    "MinPlayTime": 45,
+    "Name": "The Red Dragon\u0027s Lair: Robin Hood the Rogue \u2013 Expansion Character",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "171738",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Fall, Caesar",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "172148",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 25,
+    "MinPlayers": 2,
+    "MinPlayTime": 25,
+    "Name": "Original Spin",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "172382",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 80,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Death Over The Kingdom",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "172411",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 5,
+    "Name": "Roarstack",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "173241",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "What The Fact",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "174031",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Party Time: The Game That\u0027s as Fun as You Are",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "175219",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 5,
+    "MinPlayTime": 60,
+    "Name": "The Godfather: An Offer You Can\u0027t Refuse",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "176158",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Kid History: The Party Game",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "178026",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "After Dinner Games Compendium",
+    "YearPublished": 1994
+  },
+  {
+    "Id": "178233",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Top That Toast",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "178306",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 5,
+    "MinPlayTime": 30,
+    "Name": "Game Night In A Can",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "179219",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Funemployed: Seasonal Help",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "179448",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Monikers: Shmonikers",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "180024",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "500 Malicious Cards",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "180739",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Shout!",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182024",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 25,
+    "Name": "Catch My Drift",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "182142",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 25,
+    "Name": "Scandalous: The Naughty Drawing Game",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182238",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Joe Connaissant",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "182268",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 999,
+    "MinPlayers": 4,
+    "MinPlayTime": 10,
+    "Name": "Assumptions",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "183172",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Crabs Adjust Humidity: Volume Five (unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "183223",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Say What?",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "183481",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Rackare",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "183609",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Desaf\u00EDo Extremo",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "183934",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 6,
+    "MinPlayTime": 40,
+    "Name": "Last 2 Standing",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "185744",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Ti-Joe Connaissant",
+    "YearPublished": 2012
+  },
+  {
+    "Id": "187102",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Guards Against Insanity: Edition 1",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "188821",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Crabs Adjust Humidity: Omniclaw Edition (unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "193280",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 6,
+    "MinPlayTime": 30,
+    "Name": "Werw\u00F6lfe Unterwegs",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "193399",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "CoolCats \u0026 AssHats",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "193481",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "F.U.B.A.R.: Bringing out the worst in America\u0027s best",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "194755",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 60,
+    "Name": "plataporma",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "195217",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Travel Olympic Challenge",
+    "YearPublished": 0
+  },
+  {
+    "Id": "195709",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Monikers: Something Something",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "196564",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 10,
+    "Name": "Quick And Dirty",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "196664",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 15,
+    "Name": "Why The Long Face?",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "197878",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 40,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Dansbandsspelet",
+    "YearPublished": 2010
+  },
+  {
+    "Id": "198134",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Fou Raide",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "198270",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Guards Against Insanity: Edition 2",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "198271",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Guards Against Insanity: Edition 3",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "199248",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Bloody Broadsides",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "199436",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Uncle Web Knows Best",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "200096",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Bards Dispense Profanity: A Party Game Based on the Works of William Shakespeare",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "200378",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Japhet Jenkins\u0027 and Sally Jones\u0027 Visit Tu Bosting",
+    "YearPublished": 1868
+  },
+  {
+    "Id": "200481",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 0,
+    "Name": "My Friends are Weird",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "202039",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Pf\u00E4nder-Spiele",
+    "YearPublished": 0
+  },
+  {
+    "Id": "221248",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Monikers: The Shut Up \u0026 Sit Down Nonsense Box",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "224135",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 40,
+    "Name": "Laughcronyms",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "224591",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "HOT 16: A Game of Dope Rhymes",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "225821",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Adult Charades",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "225826",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Wacky Tobacky Comparisons",
+    "YearPublished": 0
+  },
+  {
+    "Id": "225829",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Carps \u0026 Angsty Manatee: Texas Edition",
+    "YearPublished": 0
+  },
+  {
+    "Id": "225832",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Humanity Hates Trump: Expansion One",
+    "YearPublished": 0
+  },
+  {
+    "Id": "225833",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Humanity Hates Hillary, Too \u2013 Expansion Two",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "225834",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 20,
+    "Name": "Humanity Hates the Holidays",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "225846",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "butt wasted.",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "205067",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 180,
+    "MinPlayers": 1,
+    "MinPlayTime": 20,
+    "Name": "Deck Quest",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "205155",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Guards Against Insanity: Edition 4",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "206030",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Ley de la graveedad",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "206383",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 4,
+    "MinPlayTime": 0,
+    "Name": "Bedlam Beauties",
+    "YearPublished": 0
+  },
+  {
+    "Id": "207472",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "Cats Against the World (Unofficial expansion for Cards Against Humanity)",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "209321",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Crazy \u0026 Horrible Rabbit: Volume One",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "209453",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "F.U.B.A.R.: Army Expansion Pack",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "209559",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Kids Go Wild",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "211275",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 120,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "CoolCats \u0026 AssHats: Extreme NSFW Booster Pack",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "212054",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 8,
+    "MinPlayTime": 5,
+    "Name": "Rebels Unite!",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "212808",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Cats Abiding Horribly: Episode II \u2013 A New Low",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "212809",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 3,
+    "MinPlayTime": 30,
+    "Name": "Cats Abiding Horribly: Episode III \u2013 The SJWs Strike Back",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "213671",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Turn of Phrase",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "217644",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 60,
+    "Name": "Monikers: The McElroy Collection",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "218331",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 90,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Cards Against Profanity",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "218359",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 60,
+    "MinPlayers": 4,
+    "MinPlayTime": 30,
+    "Name": "Rampunctious",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "218566",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "MIG ALLEY",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "219353",
+    "MaxPlayers": 20,
+    "MaxPlayTime": 15,
+    "MinPlayers": 2,
+    "MinPlayTime": 1,
+    "Name": "Coffee Game",
+    "YearPublished": 2017
+  },
+  {
+    "Id": "13935",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "7 Deadly Sins",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "14861",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "D\u0027Ice",
+    "YearPublished": 1995
+  },
+  {
+    "Id": "14900",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Disney\u0027s 20 Questions",
+    "YearPublished": 1992
+  },
+  {
+    "Id": "23098",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 180,
+    "MinPlayers": 8,
+    "MinPlayTime": 180,
+    "Name": "Death by Chocolate",
+    "YearPublished": 0
+  },
+  {
+    "Id": "23112",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 240,
+    "MinPlayers": 13,
+    "MinPlayTime": 240,
+    "Name": "Court in the Act",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "38006",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 600,
+    "MinPlayers": 1,
+    "MinPlayTime": 600,
+    "Name": "La Grande Boucle",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "47046",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Gambit 7",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "64962",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 30,
+    "MinPlayers": 8,
+    "MinPlayTime": 30,
+    "Name": "Invasion of the Body Snatchers",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "76691",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 15,
+    "MinPlayers": 5,
+    "MinPlayTime": 15,
+    "Name": "Eye for an Eye",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "141653",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 45,
+    "MinPlayers": 2,
+    "MinPlayTime": 45,
+    "Name": "Disc Duelers",
+    "YearPublished": 2013
+  },
+  {
+    "Id": "156847",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "King of the Jungle Card Game",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "164466",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 15,
+    "MinPlayers": 3,
+    "MinPlayTime": 15,
+    "Name": "Gambit 7: Le Mini Jeu de D\u00E9mo",
+    "YearPublished": 2008
+  },
+  {
+    "Id": "164588",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 45,
+    "MinPlayers": 7,
+    "MinPlayTime": 45,
+    "Name": "Intrigo: Muiters van de Zeven Zee\u00EBn",
+    "YearPublished": 2014
+  },
+  {
+    "Id": "182791",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 30,
+    "MinPlayers": 3,
+    "MinPlayTime": 3,
+    "Name": "Double Play: Cement Shoes",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182792",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 5,
+    "Name": "Double Play:  Gangsters \u0026 Rats",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182793",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 4,
+    "Name": "Double Play: Group Sex",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "182794",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 10,
+    "MinPlayers": 3,
+    "MinPlayTime": 1,
+    "Name": "Double Play: Dodgeball",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "187362",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 25,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Wits \u0026 Wagers: Epic Geek Edition",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "198031",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 30,
+    "MinPlayers": 4,
+    "MinPlayTime": 15,
+    "Name": "Wolf in the Village",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "214712",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 25,
+    "Name": "Das neue \u00D6sterreich Quiz",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "214713",
+    "MaxPlayers": 21,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 25,
+    "Name": "Das neue Wien Quiz",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "3112",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 90,
+    "MinPlayers": 2,
+    "MinPlayTime": 90,
+    "Name": "And They\u0027re Off!",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "3176",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 20,
+    "MinPlayers": 2,
+    "MinPlayTime": 20,
+    "Name": "Quickit",
+    "YearPublished": 1996
+  },
+  {
+    "Id": "15231",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 90,
+    "MinPlayers": 1,
+    "MinPlayTime": 90,
+    "Name": "Minden Playing Card Cricket",
+    "YearPublished": 1979
+  },
+  {
+    "Id": "16635",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 120,
+    "MinPlayers": 2,
+    "MinPlayTime": 120,
+    "Name": "Test Match (second edition)",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "18592",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 20,
+    "MinPlayers": 8,
+    "MinPlayTime": 20,
+    "Name": "Lynch Mob",
+    "YearPublished": 2003
+  },
+  {
+    "Id": "23147",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 240,
+    "MinPlayers": 16,
+    "MinPlayTime": 240,
+    "Name": "Hollywood Lies",
+    "YearPublished": 2005
+  },
+  {
+    "Id": "24966",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Cricket",
+    "YearPublished": 1960
+  },
+  {
+    "Id": "25076",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Scoreboard Cricket",
+    "YearPublished": 1976
+  },
+  {
+    "Id": "27096",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "The Amazing But True Cricket Trivia Game",
+    "YearPublished": 1993
+  },
+  {
+    "Id": "27413",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 1,
+    "MinPlayTime": 0,
+    "Name": "Stumpz",
+    "YearPublished": 1931
+  },
+  {
+    "Id": "28991",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 240,
+    "MinPlayers": 16,
+    "MinPlayTime": 240,
+    "Name": "Halloween Lies",
+    "YearPublished": 2006
+  },
+  {
+    "Id": "31508",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 30,
+    "MinPlayers": 2,
+    "MinPlayTime": 30,
+    "Name": "ReFraze",
+    "YearPublished": 2000
+  },
+  {
+    "Id": "32471",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 30,
+    "MinPlayers": 7,
+    "MinPlayTime": 30,
+    "Name": "Mafia",
+    "YearPublished": 2007
+  },
+  {
+    "Id": "38668",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "It\u0027s Cricket",
+    "YearPublished": 1962
+  },
+  {
+    "Id": "41876",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 6,
+    "MinPlayTime": 0,
+    "Name": "Becket Medieval Power Game",
+    "YearPublished": 1978
+  },
+  {
+    "Id": "62506",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 5,
+    "MinPlayers": 2,
+    "MinPlayTime": 5,
+    "Name": "Play With Your Food",
+    "YearPublished": 2009
+  },
+  {
+    "Id": "64397",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 60,
+    "MinPlayers": 2,
+    "MinPlayTime": 60,
+    "Name": "Guilty Pleasures",
+    "YearPublished": 0
+  },
+  {
+    "Id": "82303",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Googly",
+    "YearPublished": 1932
+  },
+  {
+    "Id": "108718",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Ovalette",
+    "YearPublished": 1935
+  },
+  {
+    "Id": "110977",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 45,
+    "MinPlayers": 3,
+    "MinPlayTime": 45,
+    "Name": "#OccupyBoardwalk",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "124447",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 20,
+    "MinPlayers": 8,
+    "MinPlayTime": 20,
+    "Name": "Foosball",
+    "YearPublished": 2011
+  },
+  {
+    "Id": "164236",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 90,
+    "MinPlayers": 7,
+    "MinPlayTime": 30,
+    "Name": "Witch Hunt",
+    "YearPublished": 2016
+  },
+  {
+    "Id": "185235",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 0,
+    "MinPlayers": 2,
+    "MinPlayTime": 0,
+    "Name": "Tisch-Fu\u00DFballspiel",
+    "YearPublished": 0
+  },
+  {
+    "Id": "186285",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 222,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "Black Stories: Promostory \u0022Gruseliges Casting\u0022",
+    "YearPublished": 2015
+  },
+  {
+    "Id": "186342",
+    "MaxPlayers": 22,
+    "MaxPlayTime": 222,
+    "MinPlayers": 2,
+    "MinPlayTime": 2,
+    "Name": "Black Stories: Bibel Edition",
+    "YearPublished": 2015
+  }
+]

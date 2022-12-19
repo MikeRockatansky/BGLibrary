@@ -5,10 +5,12 @@ using static System.Net.Mime.MediaTypeNames;
 using System.Xml.Linq;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Text.Json;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace BGLibrary.Services
 {
-    public class IGetService : IDBClientService, IGetInterface
+    public class GetService : DBClientService, IGetInterface
     {
         private string Request = "";
         private List<SelectViewModel> SelectedColumns;
@@ -29,6 +31,7 @@ namespace BGLibrary.Services
             this.OpenConnection();
             var Reader = this.Execute(request);
             var serialisedData = this.Serialization(Reader, columns);
+            SerializeToJson(serialisedData);
             this.CloseConnection();
 
             return serialisedData;
@@ -52,14 +55,27 @@ namespace BGLibrary.Services
             var Reader = this.Execute(Request + " LIMIT 1000");
             var serialisedData = this.Serialization(Reader, SelectedColumns);
             this.CloseConnection();
-
+            SerializeToJson(serialisedData);
             return serialisedData;
+        }
+
+        [Obsolete("Obsolete")]
+        private void SerializeToJson(List<BoardGame> boardGames)
+        {
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true,
+                IgnoreNullValues = true
+            };
+            using FileStream fs = new FileStream("wwwroot/Table.json", FileMode.Create);
+            JsonSerializer.Serialize(fs, boardGames, options);
+
+            Console.WriteLine("Data has been saved to file");
         }
 
         public List<BoardGame> Serialization(SQLiteDataReader reader, List<SelectViewModel> columns)
         {
             List<BoardGame> boardGames = new List<BoardGame>();
-
             while (reader.Read())
             {
                 var game = new BoardGame();
@@ -80,7 +96,6 @@ namespace BGLibrary.Services
                 }
                 boardGames.Add(game);
             }
-
             return boardGames;
         }
 
@@ -95,11 +110,10 @@ namespace BGLibrary.Services
                 v.BoardGameArtist = reader[3].ToString();
                 v.BoardGameDesigner = reader[4].ToString();
             }
-
             return v;
         }
 
-        public IGetService Select(List<SelectViewModel> columns, string tableName = "BoardGames")
+        public GetService Select(List<SelectViewModel> columns, string tableName = "BoardGames")
         {
             SelectedColumns = columns;
             Request += " SELECT";
@@ -112,7 +126,7 @@ namespace BGLibrary.Services
             return this;
         }
 
-        public IGetService OrderBy(List<OrderByViewModel> column_order)
+        public GetService OrderBy(List<OrderByViewModel> column_order)
         {
             if (IsValidAny(column_order))
             {
@@ -127,7 +141,7 @@ namespace BGLibrary.Services
             return this;
         }
 
-        public IGetService Where(List<WhereViewModel> Where)
+        public GetService Where(List<WhereViewModel> Where)
         {
             if (IsValidAny(Where))
             {

@@ -3,7 +3,7 @@ using System.Data.SQLite;
 
 namespace BGLibrary.Services
 {
-    public class IDBClientService : IDBClientInterface
+    public class DBClientService : IDBClientInterface
     {
         private static string dbConnectionString = @"Data Source= \boardgames.db";
         private static SQLiteConnection sqliteCon = new SQLiteConnection(dbConnectionString);

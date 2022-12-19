@@ -7,11 +7,9 @@ using BGLibrary.Services;
 
 namespace BGLibrary.Controllers
 {
-    //[System.Web.OutputCache(NoStore = true, Duration = 0, VaryByParam = "*")]
-    //[ResponseCache(Location = ResponseCacheLocation.None, NoStore = true)]
     public class PlotController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<PlotController> _logger;
         IPlotInterface PlotInterface;
         private List<SelectViewModel> IntColumns = new List<SelectViewModel>() {
             new SelectViewModel() { Column = "MaxPlayers", ColumnType = "int" },
@@ -23,7 +21,7 @@ namespace BGLibrary.Controllers
             new SelectViewModel() { Column = "AverageWeight", ColumnType = "int" }
         };
 
-        public PlotController(ILogger<HomeController> logger, IPlotInterface ipi)
+        public PlotController(ILogger<PlotController> logger, IPlotInterface ipi)
         {
             _logger = logger;
             PlotInterface = ipi;

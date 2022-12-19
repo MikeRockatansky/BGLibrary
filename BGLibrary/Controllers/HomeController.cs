@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Data.SQLite;
 using System.Reflection.PortableExecutable;
+using System.Text.Json;
 using BGLibrary.Models;
 using BGLibrary.Services;
 
@@ -44,7 +45,10 @@ namespace BGLibrary.Controllers
         [HttpPost]
         public IActionResult Index(RequestBuilderViewModel filters)
         {
-            var games = GetInterface.Select(filters.SelectColumns).Where(filters.Where).OrderBy(filters.Orderby).Get();
+            var games = GetInterface.Select(filters.SelectColumns)
+                .Where(filters.Where)
+                .OrderBy(filters.Orderby)
+                .Get();
 
             Dictionary<string, dynamic> data = new Dictionary<string, dynamic>()
             {
@@ -53,6 +57,9 @@ namespace BGLibrary.Controllers
             };
             return View(data);
         }
+        
+        public IActionResult GetFile() => 
+            File("Table.json", "application/json", "Table.json");
 
         [HttpGet]
         public IActionResult Filtration(List<SelectViewModel> SelectColumns)

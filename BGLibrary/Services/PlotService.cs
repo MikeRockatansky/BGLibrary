@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace BGLibrary.Services
 {
-    public class IPlotService : IDBClientService, IPlotInterface
+    public class PlotService : DBClientService, IPlotInterface
     {
         private string _script = "PlotsGenerators\\";
 

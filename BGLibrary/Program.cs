@@ -8,8 +8,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddMvc();
 
-builder.Services.AddTransient<IGetInterface, IGetService>();
-builder.Services.AddTransient<IPlotInterface, IPlotService>();
+builder.Services.AddTransient<IGetInterface, GetService>();
+builder.Services.AddTransient<IPlotInterface, PlotService>();
 
 var app = builder.Build();
 

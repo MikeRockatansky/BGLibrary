@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E8loiNTtM/nFIBUdxevBxACOkC6g/eqe8ewv/DEH1tE=",
+  "Hash": "h1WuGTuUADrDtsUfANa6tawJGeAtvWFD0sfH4LdKmfc=",
   "Source": "BGLibrary",
   "BasePath": "_content/BGLibrary",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plot.png"
+    },
+    {
+      "Identity": "D:\\BGLibrary\\BGLibrary\\wwwroot\\Table.json",
+      "SourceId": "BGLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BGLibrary\\BGLibrary\\wwwroot\\",
+      "BasePath": "_content/BGLibrary",
+      "RelativePath": "Table.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Table.json"
     }
   ]
 }

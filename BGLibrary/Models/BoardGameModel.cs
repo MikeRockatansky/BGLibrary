@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace BGLibrary.Models
 {
     public class BoardGame
@@ -6,12 +8,12 @@ namespace BGLibrary.Models
         public string? Type { get; set; }
         public int? MaxPlayers { get; set; }
         public int? MaxPlayTime { get; set; }
-        public int? Minage { get; set; }
+        public int? MinAge { get; set; }
         public int? MinPlayers { get; set; }
         public int? MinPlayTime { get; set; }
         public string? Name { get; set; }
         public int? YearPublished { get; set; }
-        public int? description { get; set; }
+        public int? Description { get; set; }
 
         public override string ToString()
         {
