@@ -28,12 +28,6 @@ namespace BGLibrary.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        [HttpGet]
         public IActionResult GetPlot()
         {
             return View(this.IntColumns);

@@ -1,24 +1,32 @@
 ﻿@model Dictionary<string, dynamic>
 
+<div class="d-flex justify-content-around">
+    <form asp-action="Filtration" asp-controller="Home" method="get">
+        @for (int i = 0; i < Model["Fields"].Count; ++i)
+        {
+            <input type="hidden" name="SelectColumns[@i].Column" value="@Model["Fields"][i].Column">
+            <input type="hidden" name="SelectColumns[@i].ColumnType" value="@Model["Fields"][i].ColumnType">
+        }
+        <input type="submit" value="Filtration" class="btn btn-primary"/>
+    </form>
+    <form asp-action="GetPlot" asp-controller="Plot" method="get">
+        <input type="submit" value="Plots" class="btn btn-info"/>
+    </form>
+    <form asp-action="GetFile" asp-controller="Home" method="get">
+        <input type="submit" value="SerializeToJson" class="btn btn-primary"/>
+        </form>
+</div>
 
-<form asp-action="Filtration" asp-controller="Home" method="get">
-    @for (int i = 0; i < Model["Fields"].Count; ++i)
-    {
-        <input type="hidden" name="SelectColumns[@i].Column" value="@Model["Fields"][i].Column">
-        <input type="hidden" name="SelectColumns[@i].ColumnType" value="@Model["Fields"][i].ColumnType">
-    }
-    <input type="submit" value="Filtration" class="btn btn-secondary"/>
-</form>
-<a href="~/Plot/GetPlot" class="link-primary">Plots</a>
-<a href="~/Home/GetFile" class="link-primary">GetJsonFile</a>
 
-<table  class="table">
+
+        <table  class="table">
     <thead>
         <tr>
             @foreach (var i in Model["Fields"])
             {
                 <th scope="col">@i.Column</th>
             }
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
