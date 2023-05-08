@@ -1,1 +1,1 @@
-# Course paper 3 term
+# Tabletop games statistics processor
